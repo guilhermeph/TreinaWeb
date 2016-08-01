@@ -1,4 +1,4 @@
-<?php 
+ <?php 
 
 //Inclui o arquivo que possui a classe de autoloader
 require_once('Autoloader/Autoloader.php');

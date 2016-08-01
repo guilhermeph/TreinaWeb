@@ -1,5 +1,7 @@
 <?php
 
+namespace classes;
+
 class Agencia{
     private $codigo;
     private $endereco;

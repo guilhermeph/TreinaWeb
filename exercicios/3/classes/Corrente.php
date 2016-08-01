@@ -1,5 +1,7 @@
 <?php
 
+namespace classes;
+
 class Corrente extends Conta{
     
     private $limiteDeCredito;

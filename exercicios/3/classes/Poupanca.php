@@ -1,5 +1,7 @@
 <?php
 
+namespace classes;
+
 class poupanca extends Conta{
     private $porcentagemDeRetornoAoMes;
     
